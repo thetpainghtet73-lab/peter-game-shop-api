@@ -1,0 +1,12 @@
+{
+  "name": "peter-game-shop-api",
+  "version": "1.0.0",
+  "description": "Peter Game Shop Demo API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
